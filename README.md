@@ -16,5 +16,5 @@
 - Master the notion of redefinition.
 - Understand the concept of abstract classes
 - Polymorphism
-- Concept ofExceptions
+- Concept of Exceptions
 - Concept of Interfaces
