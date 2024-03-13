@@ -15,4 +15,5 @@
 - Understanding the construction of a derived object
 - Master the notion of redefinition.
 - Understand the concept of abstract classes
-- Polymorphism 
+- Polymorphism
+- Exceptions
